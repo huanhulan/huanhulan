@@ -1,1 +1,1 @@
-![Metrics](https://d2ufh4q1n1d6oy.cloudfront.net/index.svg)
+![Metrics](https://d2ufh4q1n1d6oy.cloudfront.net/huanhulan?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
